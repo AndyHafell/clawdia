@@ -204,7 +204,7 @@ See [docs/AIRTABLE_SETUP.md](docs/AIRTABLE_SETUP.md) for the full schema and set
 
 **Want help setting this up? Want pre-built Airtable templates, n8n workflows, and video walkthroughs?**
 
-Join the [Skool community](https://www.skool.com/ai-andy) where creators help each other build AI-powered content systems.
+Join the [Skool community](https://www.skool.com/ai-mate) where creators help each other build AI-powered content systems.
 
 What you get:
 - Pre-built Airtable base templates (one-click clone)
@@ -231,6 +231,12 @@ PRs welcome! If you build something cool with Clawdia, open a PR or share it in 
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
+---
+
+## See Also
+
+**[Content Mate](https://github.com/AndyHafell/content-mate)** — The short-form content factory. Uses n8n to scrape viral X posts, generate AI videos with avatars + voiceover + captions, and publish to 9 platforms. Clawdia handles long-form; Content Mate handles short-form.
 
 ---
 
