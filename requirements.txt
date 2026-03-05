@@ -1,0 +1,16 @@
+# Clawdia — Python Dependencies
+
+# Google APIs
+google-api-python-client>=2.0.0
+google-auth>=2.0.0
+google-auth-oauthlib>=1.0.0
+
+# AI / Image Generation
+Pillow>=10.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Environment & HTTP
+python-dotenv>=1.0.0
+requests>=2.31.0
+certifi>=2023.0.0

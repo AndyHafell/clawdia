@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+venv/
+.venv/
+
+# Secrets & credentials — NEVER commit these
+.env
+client_secrets.json
+youtube_token.pickle
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+scripts/logs/*.log
+
+# Temp files
+*.tmp
+*.bak
+
+# Generated output
+thumbnail_system/output/
